@@ -1,0 +1,134 @@
+/* 1:4 versions of m=margin. */
+.m1{
+    margin: 2px;
+}
+
+.m2{
+    margin: 4px;
+}
+
+.m3{
+    margin:6px;
+}
+
+.m4{
+    margin: 8px;
+}
+
+/* 2:4 versions of p=padding. */
+.p1{
+    padding: 2px;
+}
+
+.p2{
+    padding: 4px;
+}
+
+.p3{
+    padding: 6px;
+}
+
+.p4{
+    padding:8px;
+}
+
+/* 3:4 versions of bc=background-color. */
+.bc1{
+    background-color: red;
+}
+
+.bc2{
+    background-color: blue;
+}
+
+.bc3{
+    background-color: yellow;
+}
+
+.bc4{
+    background-color: green;
+}
+
+/* 4:4 version of c=color. */
+.c1{
+    color: black;
+}
+
+.c2{
+    color: brown;
+}
+
+.c3{
+    color: pink;
+}
+
+.c4{
+    color:blueviolet
+}
+
+/* 5:4 versions of h=height. */
+.h1{
+    height: 200px;
+    min-height: 100px;
+    max-height: 300px;
+}
+
+.h2{
+    height: 300px;
+    min-height: 200px;
+    max-height: 400px;
+}
+
+.h3{
+    height: 400px;
+    min-height: 300px;
+    max-height: 500px;
+}
+
+.h4{
+    height: 500px;
+    min-height: 400px;
+    max-height: 600px;
+}
+
+/* 6:4 versions of w=width. */
+.w1{
+    width:200px;
+    min-width: 100px;
+    max-width: 300px;
+}
+
+.w2{
+    width: 300px;
+    min-width: 200px;
+    max-width: 400px;
+}
+
+.w3{
+    width:400px;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+.w4{
+    height: 500px;
+    min-width: 400px;
+    max-width: 600px;
+}
+
+/* 7:4 versions of fs=font-size. */
+.fs1{
+    font-size: small;
+}
+
+.fs2{
+    font-size: medium;
+}
+
+.fs3{
+    font-size: large;
+}
+
+.fs4{
+    font-size: x-large;
+}
